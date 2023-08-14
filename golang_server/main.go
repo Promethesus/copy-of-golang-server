@@ -96,7 +96,7 @@ func main() {
 	r := gin.Default()
 	// This r.use token.. applies the requirement of a token to all the routes
 	r.Use(TokenAuthMiddleware())
-	r.GET("/example.com/getuser", GetUserHandler)
+	r.GET("/getuser", GetUserHandler)
 	r.POST("/group", GroupByDamage)
 	r.Run(":8080")
 }
