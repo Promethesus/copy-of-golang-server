@@ -1,0 +1,18 @@
+{
+    "lobby1Players": [
+        {
+            "username": "Player1",
+            "Damage": "100"
+        },
+        {
+            "username": "Player3",
+            "Damage": "100"
+        }
+    ],
+    "lobby2Platers": [
+        {
+            "username": "Player2",
+            "Damage": "200"
+        }
+    ]
+}
