@@ -1,10 +1,3 @@
-# sandbox
-
-
-A general repo for testing and depositing early ideas
-
-
-
 ## Docker Container commands
 must have rancher desktop running or something equivalent. 
 
